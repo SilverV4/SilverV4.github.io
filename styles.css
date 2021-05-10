@@ -67,6 +67,21 @@ body {
 }
 
 
+.bg-img5 {
+  /* The image used */
+  background-image: url("Images(LOL)/1462671.jpg");
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* Needed to position the navbar */
+  position: relative;
+}
+
 
 
 /* Position the navbar container inside the image */
@@ -219,5 +234,44 @@ div.MonkDrip2{
     width: 450px;
     height: 550px;
 }
+div.MonkDrip3{
+    content: url("Images(LOL)/MonkDrip6.jpg");
+    width: 450px;
+    height: 550px;
+}
 
+div.Kindred1{
+    content: url("Images(LOL)/kindredsplash.jpg");
+    width: 720px;
+    height: 420px;
+    float: left;
+   margin: 20px;
+}
 
+div.vid1{
+  float: right;
+  margin: 20px;
+}
+
+div.Katarina1{
+    content: url("Images(LOL)/katarina1.jpg");
+    width: 720px;
+    height: 420px;
+    float: left;
+   margin: 20px;
+}
+div.vid2{
+  float: right;
+  margin: 20px;
+}
+div.Samira1{
+    content: url("Images(LOL)/sanira1.jpg");
+    width: 720px;
+    height: 420px;
+    float: left;
+   margin: 20px;
+}
+div.vid2{
+  float: right;
+  margin: 20px;
+}
